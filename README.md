@@ -26,3 +26,7 @@ Estou procurando uma oportunidade de estágio na área de informática e program
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 </div>
+
+---
+
+![Brunofcrosa GitHub stats](https://github-readme-stats.vercel.app/api?username=brunofcrosa&show_icons=true&theme=tokyonight)
