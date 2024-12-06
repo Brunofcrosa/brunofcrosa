@@ -3,7 +3,9 @@
 ---
 
 ## Sobre Mim
-Estou procurando uma oportunidade de estágio na área de informática e programação. Meu objetivo é aplicar os conhecimentos adquiridos e expandir minhas habilidades técnicas, especialmente em programação e manutenção de computadores.
+Estou procurando uma oportunidade de estágio na área de informática e programação. 
+Tenho formação complementar em Desenvolvimento Web e Programação Full Stack, 
+na instituição UFSM, estou aprimorando meus conhecimentos em html, css, js, angular, java e banco de dados.
 
 ---
 
