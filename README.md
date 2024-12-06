@@ -4,8 +4,8 @@
 
 ## Sobre Mim
 Estou procurando uma oportunidade de estágio na área de informática e programação. 
-Tenho formação complementar em Desenvolvimento Web e Programação Full Stack, 
-na instituição UFSM, estou aprimorando meus conhecimentos em html, css, js, angular, java e banco de dados.
+Tenho formação complementar em Desenvolvimento Web e Programação Full Stack.
+Na instituição UFSM, estou aprimorando meus conhecimentos em html, css, js, angular, java e banco de dados.
 
 ---
 
