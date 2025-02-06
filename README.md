@@ -31,4 +31,4 @@ Na instituição UFSM, estou aprimorando meus conhecimentos em html, css, js, an
 
 ---
 
-![Brunofcrosa GitHub stats](https://github-readme-stats.vercel.app/api?username=brunofcrosa&show_icons=true&theme=tokyonight)
+
