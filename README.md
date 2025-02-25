@@ -23,14 +23,14 @@
 ###
 
 <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-<a href="https://linkedin.com/in/brunofcrosa">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-</div>
-<a href="https://curriculo-azure.vercel.app/">
-    <img src="https://img.shields.io/badge/Curr%C3%ADculo-FF6347?style=for-the-badge&logo=readme&logoColor=white" alt="Currículo"/>
+  <a href="https://linkedin.com/in/brunofcrosa">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href="https://curriculo-azure.vercel.app/">
+    <img src="https://img.shields.io/badge/Curr%C3%ADculo-FF6347?style=flat&logo=readme&logoColor=white" alt="Currículo"/>
+  </a>
+</div>
+
 
 ###
 
