@@ -22,7 +22,14 @@
 
 ###
 
-<p align="left">brunofcrosa@hotmail.com  <br>🔗 [LinkedIn] (https://linkedin.com/in/brunofcrosa)  <br>🔗 [GitHub] (https://github.com/brunofcrosa)</p>
+<div style="display: flex; flex-wrap: wrap; gap: 8px;">
+<a href="https://linkedin.com/in/brunofcrosa">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://instagram.com/brunofcrosa">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+</div>
 
 ###
 
