@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">🎯 Habilidades  <br>🔹 Front-end: HTML, CSS, JavaScript, React, Angular  <br>🔹 Back-end: Node.js, Java. <br>🔹 Banco de Dados: MySQL, MongoDB  <br>🔹 Versionamento: Git & GitHub  <br>🔹 Metodologias Ágeis: Scrum</p>
+Front-end: HTML, CSS, JavaScript, React, Angular  <br>🔹 Back-end: Node.js, Java. <br>🔹 Banco de Dados: MySQL, MongoDB  <br>🔹 Versionamento: Git & GitHub  <br>🔹 Metodologias Ágeis: Scrum</p>
 
 ###
 
