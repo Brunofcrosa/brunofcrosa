@@ -14,7 +14,7 @@
 
 ###
 
-Front-end: HTML, CSS, JavaScript, React, Angular  <br>🔹 Back-end: Node.js, Java. <br>🔹 Banco de Dados: MySQL, MongoDB  <br>🔹 Versionamento: Git & GitHub  <br>🔹 Metodologias Ágeis: Scrum</p>
+<p align="left">🎯 Habilidades  <br>🔹 Front-end: HTML, CSS, JavaScript, React, Angular  <br>🔹 Back-end: Node.js, Java. <br>🔹 Banco de Dados: MySQL, MongoDB  <br>🔹 Versionamento: Git & GitHub  <br>🔹 Metodologias Ágeis: Scrum</p>
 
 ###
 
@@ -22,14 +22,15 @@ Front-end: HTML, CSS, JavaScript, React, Angular  <br>🔹 Back-end: Node.js, Ja
 
 ###
 
-<div style="display: flex; flex-wrap: wrap; gap: 8px;">
+
   <a href="https://linkedin.com/in/brunofcrosa">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://curriculo-azure.vercel.app/">
     <img src="https://img.shields.io/badge/Curr%C3%ADculo-FF6347?style=flat&logo=readme&logoColor=white" alt="Currículo"/>
   </a>
-</div>
+
+
 
 ###
 
@@ -48,3 +49,5 @@ Front-end: HTML, CSS, JavaScript, React, Angular  <br>🔹 Back-end: Node.js, Ja
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
+
+###
