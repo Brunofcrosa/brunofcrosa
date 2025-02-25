@@ -23,14 +23,15 @@
 ###
 
 
-  <div style="display: flex; align-items: center;">
-  <a href="https://linkedin.com/in/brunofcrosa" style="margin-right: 10px;">
+<div align="left" style="display: flex; gap: 10px;">
+  <a href="https://linkedin.com/in/brunofcrosa">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://curriculo-azure.vercel.app/">
     <img src="https://img.shields.io/badge/Curr%C3%ADculo-FF6347?style=flat&logo=readme&logoColor=white" alt="Currículo"/>
   </a>
 </div>
+
 
 
 
