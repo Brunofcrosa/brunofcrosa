@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">Sobre</h2>
+<h2 align="left">🌍 Sobre</h2>
 
 ###
 
@@ -10,11 +10,11 @@
 
 ###
 
-<h2 align="left">Habilidades</h2>
+<h2 align="left">🎯 Habilidades</h2>
 
 ###
 
-🔹 Front-end: HTML, CSS, JavaScript, React, Angular  <br>🔹 Back-end: Node.js, Java. <br>🔹 Banco de Dados: MySQL, MongoDB  <br>🔹 Versionamento: Git & GitHub  <br>🔹 Metodologias Ágeis: Scrum</p>
+<p align="left">🔹 Front-end: HTML, CSS, JavaScript, React, Angular  <br>🔹 Back-end: Node.js, Java. <br>🔹 Banco de Dados: MySQL, MongoDB  <br>🔹 Versionamento: Git & GitHub  <br>🔹 Metodologias Ágeis: Scrum</p>
 
 ###
 
@@ -22,15 +22,7 @@
 
 ###
 
-<div style="display: flex; flex-wrap: wrap; gap: 8px;">
-  <a href="https://linkedin.com/in/brunofcrosa">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" width="100"/>
-  </a>
-  <a href="https://curriculo-azure.vercel.app/">
-    <img src="https://img.shields.io/badge/Curr%C3%ADculo-FF6347?style=flat&logo=readme&logoColor=white" alt="Currículo" width="100"/>
-  </a>
-</div>
-
+<p align="left">🌐 https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white (https://linkedin.com/in/brunofcrosa)  <br>⚙️ [GitHub] (https://github.com/brunofcrosa)  <br>📝 [Currículo] (https://curriculo-azure.vercel.app/) <br>📧 brunofcrosa@hotmail.com</p>
 
 ###
 
