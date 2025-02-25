@@ -23,17 +23,14 @@
 ###
 
 
-<div align="left" style="display: inline-block;">
-  <a href="https://linkedin.com/in/brunofcrosa" style="vertical-align: middle; margin-right: 0;">
+<div align="left" style="display: flex; align-items: center; gap: 0;">
+  <a href="https://linkedin.com/in/brunofcrosa" style="margin: 0;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://curriculo-azure.vercel.app/" style="vertical-align: middle; margin-left: 0;">
+  <a href="https://curriculo-azure.vercel.app/" style="margin: 0;">
     <img src="https://img.shields.io/badge/Curr%C3%ADculo-FF6347?style=flat&logo=readme&logoColor=white" alt="Currículo"/>
   </a>
 </div>
-
-
-
 
 
 
