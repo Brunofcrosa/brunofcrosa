@@ -22,10 +22,10 @@
 
 ###
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brunofcrosa)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brunofcrosa)
-[![Currículo](https://img.shields.io/badge/Currículo-%23000000.svg?style=for-the-badge&logo=google-drive&logoColor=white)](https://curriculo-azure.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brunofcrosa)
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunofcrosa@hotmail.com)
+[![Currículo](https://img.shields.io/badge/Currículo-%23000000.svg?style=for-the-badge&logo=google-drive&logoColor=white)](https://curriculo-azure.vercel.app/)
 
 ###
 <div align="left">
