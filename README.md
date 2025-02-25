@@ -14,7 +14,13 @@
 
 ###
 
-🔹 Front-end: HTML, CSS, JavaScript, React, Angular  <br>🔹 Back-end: Node.js, Java. <br>🔹 Banco de Dados: MySQL, MongoDB  <br>🔹 Versionamento: Git & GitHub  <br>🔹 Metodologias Ágeis: Scrum</p>
+<ul>
+  <li>🔹 Front-end: HTML, CSS, JavaScript, React, Angular</li>
+  <li>🔹 Back-end: Node.js, Java</li>
+  <li>🔹 Banco de Dados: MySQL, MongoDB</li>
+  <li>🔹 Versionamento: Git & GitHub</li>
+  <li>🔹 Metodologias Ágeis: Scrum</li>
+</ul>
 
 ###
 
@@ -22,15 +28,12 @@
 
 ###
 
-
 <a href="https://linkedin.com/in/brunofcrosa">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://curriculo-azure.vercel.app/">
   <img src="https://img.shields.io/badge/Curr%C3%ADculo-FF6347?style=flat&logo=readme&logoColor=white" alt="Currículo"/>
 </a>
-
-
 
 ###
 
