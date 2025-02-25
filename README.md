@@ -15,11 +15,11 @@
 ###
 
 <ul>
-  <li>🔹 Front-end: HTML, CSS, JavaScript, React, Angular</li>
-  <li>🔹 Back-end: Node.js, Java</li>
-  <li>🔹 Banco de Dados: MySQL, MongoDB</li>
-  <li>🔹 Versionamento: Git & GitHub</li>
-  <li>🔹 Metodologias Ágeis: Scrum</li>
+  🔹 Front-end: HTML, CSS, JavaScript, React, Angular</li>
+  🔹 Back-end: Node.js, Java</li>
+  🔹 Banco de Dados: MySQL, MongoDB</li>
+  🔹 Versionamento: Git & GitHub</li>
+  🔹 Metodologias Ágeis: Scrum</li>
 </ul>
 
 ###
