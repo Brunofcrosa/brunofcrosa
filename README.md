@@ -16,9 +16,9 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bruno%20Fetzer-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/seu-perfil/)
-[![GitHub](https://img.shields.io/badge/GitHub-Bruno%20Fetzer-black?style=for-the-badge&logo=github)](https://github.com/seu-usuario)
-[![Email](https://img.shields.io/badge/Email-bruno%40email.com-red?style=for-the-badge&logo=gmail)](mailto:bruno@email.com)
+[![Currículo](https://img.shields.io/badge/Curr%C3%ADculo-Bruno%20Fetzer-blue?style=for-the-badge)](https://link-do-seu-curriculo)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-Bruno%20Fetzer-green?style=for-the-badge)](https://link-do-seu-portfolio)
+
 
 
 </div>
