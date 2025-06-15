@@ -1,5 +1,5 @@
 <div align="center">
-[![GIF animado](https://media.giphy.com/media/Rc6zH8n27VxdB0zKDN/giphy.gif)](https://media.giphy.com/media/Rc6zH8n27VxdB0zKDN/giphy.gif)
+  <img height="150" src="https://media.giphy.com/media/Rc6zH8n27VxdB0zKDN/giphy.gif"  />
 </div>
 
 ###
