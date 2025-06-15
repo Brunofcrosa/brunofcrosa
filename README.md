@@ -1,5 +1,5 @@
 <div align="center">
-  ![GIF animado](https://media.giphy.com/media/Rc6zH8n27VxdB0zKDN/giphy.gif)
+![GIF animado](https://media.giphy.com/media/Rc6zH8n27VxdB0zKDN/giphy.gif)
 </div>
 
 ###
