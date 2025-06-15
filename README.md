@@ -28,19 +28,19 @@
 
 ###
 
-<h3 align="left">🌍 Sobre</h3>
+<h3 align="center">💬 About</h3>
 
 ###
 
-<p align="left">- 💻 Estudante da Graduação em Sistemas para Internet na Universidade Federal de Santa Maria(UFSM).<br>- 📚 Formação complementar em Desenvolvimento Web e Programação Full Stack<br>- 🚀 Atualmente estudando Flutter.</p>
+<p align="center">- 💻 Estudante da Graduação em Sistemas para Internet na Universidade Federal de Santa Maria(UFSM).<br>- 📚 Formação complementar em Desenvolvimento Web e Programação Full Stack<br>- 🚀 Atualmente estudando Flutter.</p>
 
 ###
 
-<h3 align="left">🛠 Languages</h3>
+<h3 align="center">🛠 Languages</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -62,11 +62,11 @@
 
 ###
 
-<h3 align="left">🛠 Tools</h3>
+<h3 align="center">⚙️ Tools</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" height="40" alt="centos logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
@@ -90,11 +90,11 @@
 
 ###
 
-<h3 align="left">🛠 Frameworks</h3>
+<h3 align="center">🔧 Frameworks</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -112,7 +112,7 @@
 
 ###
 
-<h3 align="left">🔥   Stats</h3>
+<h3 align="center">🔥   Stats</h3>
 
 ###
 
