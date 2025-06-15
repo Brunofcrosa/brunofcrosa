@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="./t57273Q.gif" height="200" alt="papagaio animado" />
-</p>
-
-
 ###
 
 <div align="center">
