@@ -15,7 +15,6 @@
   <a href="mailto:brunofcrosa@hotmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
-# Bruno Fetzer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bruno%20Fetzer-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/seu-perfil/)
 [![GitHub](https://img.shields.io/badge/GitHub-Bruno%20Fetzer-black?style=for-the-badge&logo=github)](https://github.com/seu-usuario)
