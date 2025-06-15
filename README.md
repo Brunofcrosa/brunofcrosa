@@ -15,12 +15,12 @@
   <a href="mailto:brunofcrosa@hotmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
-
-[![Currículo](https://img.shields.io/badge/Curr%C3%ADculo-Bruno%20Fetzer-blue?style=for-the-badge)](https://link-do-seu-curriculo)
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-Bruno%20Fetzer-green?style=for-the-badge)](https://link-do-seu-portfolio)
-
-
-
+   <a href="https://link-do-seu-curriculo" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Curr%C3%ADculo&logo=document&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Currículo" />
+  </a>
+  <a href="https://link-do-seu-portfolio" target="_blank" style="margin-left: 10px;">
+    <img src="https://img.shields.io/static/v1?message=Portf%C3%B3lio&logo=codepen&label=&color=28A745&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Portfólio" />
+  </a>
 </div>
 
 ###
