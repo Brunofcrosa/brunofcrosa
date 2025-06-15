@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/t57273Q.gif" height="200" alt="papagaio animado" />
+  <img src="https://www.i.imgur.com/t57273Q.gif" height="200" alt="papagaio animado" />
 </div>
 
 ###
