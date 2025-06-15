@@ -1,6 +1,8 @@
 <div align="center">
   <img src="https://i.imgur.com/t57273Q.gif" height="200" alt="papagaio animado" />
 </div>
+![papagaio animado](https://i.imgur.com/t57273Q.gif)
+
 
 
 ###
