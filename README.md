@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="500" src="papagaio.gif"  />
+  <img height="500" src="https://imgur.com/5ELf6l5"  />
 </div>
 
 ###
