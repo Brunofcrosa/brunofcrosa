@@ -114,7 +114,7 @@
 
 ###
 
-<h3 align="center">🔥   Stats</h3>
+<h3 align="center">🔥   Stats </h3>
 
 ###
 
