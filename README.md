@@ -34,7 +34,7 @@
 
 ###
 
-<p align="center">- 💻 Estudante de Graduação em Sistemas para Internet na Universidade Federal de Santa Maria(UFSM).<br>- 📚 Formação complementar em Desenvolvimento Web e Programação Full Stack<br>- 🚀 Atualmente estudando Flutter.</p>
+<p align="center">💻 Estudante de Graduação em Sistemas para Internet na Universidade Federal de Santa Maria(UFSM).<br>📚 Formação complementar em Desenvolvimento Web e Programação Full Stack<br>🚀 Atualmente estudando Flutter.</p>
 
 ###
 
