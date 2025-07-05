@@ -10,7 +10,7 @@
   <a href="mailto:brunofcrosa@hotmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
-   <a href="https://curriculo-azure.vercel.app/" target="_blank">
+    <a href="https://curriculo-azure.vercel.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Curr%C3%ADculo&logo=document&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Currículo" />
   </a>
   <a href="https://portfolio-brunofcrosas-projects.vercel.app/" target="_blank" style="margin-left: 10px;">
@@ -21,12 +21,12 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=brunofcrosa.brunofcrosa&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=brunofcrosa.brunofcrosa&" width="100" height="25" alt="Visitor Badge" />
 </div>
 
 ###
 
-<h1 align="center">Olá, me chamo Bruno Fetzer👋   </h1>
+<h1 align="center">Olá, me chamo Bruno Fetzer👋    </h1>
 
 ###
 
@@ -111,4 +111,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
 </div>
-
