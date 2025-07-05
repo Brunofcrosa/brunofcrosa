@@ -11,10 +11,10 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
     <a href="https://curriculo-azure.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Curr%C3%ADculo&logo=document&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Currículo" />
+    <img src="https://img.jsdelivr.com/static/v1?message=Curr%C3%ADculo&logo=document&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Currículo" />
   </a>
   <a href="https://portfolio-brunofcrosas-projects.vercel.app/" target="_blank" style="margin-left: 10px;">
-    <img src="https://img.shields.io/static/v1?message=Portf%C3%B3lio&logo=codepen&label=&color=28A745&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Portfólio" />
+    <img src="https://img.jsdelivr.com/static/v1?message=Portf%C3%B3lio&logo=codepen&label=&color=28A745&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Portfólio" />
   </a>
 </div>
 
@@ -43,7 +43,7 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img src="https://cdn.simpleicons.org/c/00599C" height="30" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
