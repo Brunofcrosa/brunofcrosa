@@ -17,11 +17,6 @@
   </a>
 </div>
 
-<!-- Badge de visitante -->
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=brunofcrosa.brunofcrosa" width="100" height="25" alt="Contador de visitas" />
-</div>
-
 <!-- Saudação -->
 <h1 align="center">Olá, me chamo Bruno Fetzer 👋</h1>
 
