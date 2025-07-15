@@ -17,7 +17,7 @@
   </a>
 </div>
 
-<!-- Saudação -->
+<!-- Saudação  -->
 <h1 align="center">Olá, me chamo Bruno Fetzer 👋</h1>
 
 <!-- Sobre -->
