@@ -47,7 +47,7 @@
 <!-- Ferramentas -->
 <h3 align="center">⚙️ Ferramentas</h3>
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" style="height: 32px; width: 32px;" alt="CentOS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" style="height: 32px; width: 32px;" alt="Debian" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="height: 32px; width: 32px;" alt="Figma" />
