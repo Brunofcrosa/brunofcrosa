@@ -18,11 +18,11 @@
   </a>
   &nbsp;
   <a href="https://curriculo-azure.vercel.app/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Currículo-0078D4?style=for-the-badge&logo=microsoftword&logoColor=white" height="28" alt="Currículo" />
+    <img src="https://img.shields.io/badge/Curr%C3%ADculo-0078D4?style=for-the-badge&logo=microsoftword&logoColor=white" height="28" alt="Currículo" />
   </a>
   &nbsp;
   <a href="https://portfolio-brunofcrosas-projects.vercel.app/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Portfólio-28A745?style=for-the-badge&logo=vercel&logoColor=white" height="28" alt="Portfólio" />
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-28A745?style=for-the-badge&logo=vercel&logoColor=white" height="28" alt="Portfólio" />
   </a>
 </div>
 
@@ -91,16 +91,16 @@ public class Bruno {
 
 <div align="center">
   <a href="https://github.com/Brunofcrosa/portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brunofcrosa&repo=portfolio&theme=github_dark&hide_border=true&cache_seconds=1800" />
+    <img src="https://github-readme-stats-88s1.vercel.app/api/pin/?username=Brunofcrosa&repo=portfolio&theme=github_dark&hide_border=true" />
   </a>
   <a href="https://github.com/Brunofcrosa/imobiliaria">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brunofcrosa&repo=imobiliaria&theme=github_dark&hide_border=true&cache_seconds=1800" />
+    <img src="https://github-readme-stats-88s1.vercel.app/api/pin/?username=Brunofcrosa&repo=imobiliaria&theme=github_dark&hide_border=true" />
   </a>
   <a href="https://github.com/Brunofcrosa/comanda_app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brunofcrosa&repo=comanda_app&theme=github_dark&hide_border=true&cache_seconds=1800" />
+    <img src="https://github-readme-stats-88s1.vercel.app/api/pin/?username=Brunofcrosa&repo=comanda_app&theme=github_dark&hide_border=true" />
   </a>
   <a href="https://github.com/Brunofcrosa/estoque">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brunofcrosa&repo=estoque&theme=github_dark&hide_border=true&cache_seconds=1800" />
+    <img src="https://github-readme-stats-88s1.vercel.app/api/pin/?username=Brunofcrosa&repo=estoque&theme=github_dark&hide_border=true" />
   </a>
 </div>
 
@@ -109,9 +109,9 @@ public class Bruno {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Brunofcrosa&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-88s1.vercel.app/api?username=Brunofcrosa&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunofcrosa&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=1800" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats-88s1.vercel.app/api/top-langs/?username=Brunofcrosa&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
 </div>
 
 <br/>
