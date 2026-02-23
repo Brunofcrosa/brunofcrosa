@@ -91,16 +91,16 @@ public class Bruno {
 
 <div align="center">
   <a href="https://github.com/Brunofcrosa/portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brunofcrosa&repo=portfolio&theme=github_dark&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brunofcrosa&repo=portfolio&theme=github_dark&hide_border=true&cache_seconds=1800" />
   </a>
   <a href="https://github.com/Brunofcrosa/imobiliaria">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brunofcrosa&repo=imobiliaria&theme=github_dark&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brunofcrosa&repo=imobiliaria&theme=github_dark&hide_border=true&cache_seconds=1800" />
   </a>
   <a href="https://github.com/Brunofcrosa/comanda_app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brunofcrosa&repo=comanda_app&theme=github_dark&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brunofcrosa&repo=comanda_app&theme=github_dark&hide_border=true&cache_seconds=1800" />
   </a>
   <a href="https://github.com/Brunofcrosa/estoque">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brunofcrosa&repo=estoque&theme=github_dark&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brunofcrosa&repo=estoque&theme=github_dark&hide_border=true&cache_seconds=1800" />
   </a>
 </div>
 
@@ -109,15 +109,15 @@ public class Bruno {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Brunofcrosa&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Brunofcrosa&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" height="165" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunofcrosa&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunofcrosa&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=1800" height="165" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Brunofcrosa&theme=github-dark-blue&hide_border=true&locale=pt_BR" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Brunofcrosa&theme=github-dark-blue&hide_border=true&locale=pt_BR" alt="GitHub Streak" />
 </div>
 
 ---
