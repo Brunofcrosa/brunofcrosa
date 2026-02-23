@@ -17,60 +17,86 @@
   </a>
 </div>
 
-<!-- Saudação  -->
+<!-- Saudação -->
 <h1 align="center">Olá, me chamo Bruno Fetzer 👋</h1>
 
 <!-- Sobre -->
 <h3 align="center">💬 Sobre mim</h3>
 
 <p align="center">
-  💻 Estudante de Graduação em Sistemas para Internet na Universidade Federal de Santa Maria (UFSM).<br>
-  📚 Formação complementar em Desenvolvimento Web e Programação Full Stack pelo SENAI.<br>
-  🚀 Atualmente estudando Flutter.
+  💻 Tecnólogo em Sistemas para Internet na UFSM (previsão 2027).<br>
+  🎓 Técnico em Informática para Internet pelo Colégio Politécnico da UFSM (2025) e Full Stack pelo SENAI (2024).<br>
+  🏢 Desenvolvedor Full Stack na LUMAC RS – Colégio Politécnico UFSM, atuando com Java 17, Spring Boot 3 e Angular 17+.<br>
+  🔐 Foco em Clean Architecture, segurança com Keycloak (OAuth2/OpenID Connect) e microsserviços escaláveis.<br>
+  📱 Atualmente aprofundando conhecimentos em Flutter (Dart).
 </p>
 
-<!-- Idiomas -->
-<h3 align="center">🛠 Linguagens</h3>
+<!-- Back-end -->
+<h3 align="center">⚙️ Back-end</h3>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="height: 32px; width: 32px;" alt="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="height: 32px; width: 32px;" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" style="height: 32px; width: 32px;" alt="Dart" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" style="height: 32px; width: 32px;" alt="Kotlin" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="height: 32px; width: 32px;" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="height: 32px; width: 32px;" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height: 32px; width: 32px;" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="height: 32px; width: 32px;" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="height: 32px; width: 32px;" alt="TypeScript" />
-</div>
-
-<!-- Ferramentas -->
-<h3 align="center">⚙️ Ferramentas</h3>
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" style="height: 32px; width: 32px;" alt="Debian" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="height: 32px; width: 32px;" alt="Figma" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" style="height: 32px; width: 32px;" alt="IntelliJ" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" style="height: 32px; width: 32px;" alt="Spring Boot" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="height: 32px; width: 32px;" alt="C/C++" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="height: 32px; width: 32px;" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" style="height: 32px; width: 32px;" alt="PyCharm" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="height: 32px; width: 32px;" alt="VS Code" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" style="height: 32px; width: 32px;" alt="WebStorm" />
 </div>
 
-<h3 align="center">⚙️ OS</h3>
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" style="height: 32px; width: 32px;" alt="CentOS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" style="height: 32px; width: 32px;" alt="Debian" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" style="height: 32px; width: 32px;" alt="RedHat" />
-</div>
-
-
-<!-- Frameworks -->
-<h3 align="center">🔧 Frameworks</h3>
+<!-- Front-end -->
+<h3 align="center">🖥️ Front-end</h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" style="height: 32px; width: 32px;" alt="Angular" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="height: 32px; width: 32px;" alt="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height: 32px; width: 32px;" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height: 32px; width: 32px;" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="height: 32px; width: 32px;" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="height: 32px; width: 32px;" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="height: 32px; width: 32px;" alt="Bootstrap" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" style="height: 32px; width: 32px;"/>
-</div>     
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" style="height: 32px; width: 32px;" alt="Tailwind CSS" />
+</div>
+
+<!-- Mobile -->
+<h3 align="center">📱 Mobile</h3>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="height: 32px; width: 32px;" alt="Flutter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" style="height: 32px; width: 32px;" alt="Dart" />
+</div>
+
+<!-- Banco de Dados -->
+<h3 align="center">🗄️ Banco de Dados</h3>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="height: 32px; width: 32px;" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="height: 32px; width: 32px;" alt="MySQL" />
+</div>
+
+<!-- DevOps & Ferramentas -->
+<h3 align="center">🛠️ DevOps & Ferramentas</h3>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="height: 32px; width: 32px;" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="height: 32px; width: 32px;" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="height: 32px; width: 32px;" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" style="height: 32px; width: 32px;" alt="IntelliJ" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" style="height: 32px; width: 32px;" alt="WebStorm" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="height: 32px; width: 32px;" alt="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="height: 32px; width: 32px;" alt="Figma" />
+</div>
+
+<!-- OS -->
+<h3 align="center">🐧 OS</h3>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" style="height: 32px; width: 32px;" alt="Debian" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" style="height: 32px; width: 32px;" alt="CentOS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" style="height: 32px; width: 32px;" alt="RedHat" />
+</div>
+
+<!-- GitHub Stats -->
+<h3 align="center">📊 GitHub Stats</h3>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Brunofcrosa&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunofcrosa&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</div>
