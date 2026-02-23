@@ -1,29 +1,11 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,50:a855f7,100:06b6d4&height=160&section=header&text=Bruno%20Fetzer&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Full%20Stack%20Developer%20%7C%20UFSM&descAlignY=75&descSize=20&descColor=e2e8f0" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,50:a855f7,100:06b6d4&height=160&section=header&text=Bruno%20Fetzer&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Full%20Stack%20Developer%20%7C%20UFSM&descAlignY=75&descSize=20&descColor=ffffff" width="100%"/>
 </div>
 
 <!-- Badges sociais -->
-<div align="center">
-  <a href="https://www.linkedin.com/in/brunofcrosa" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-6e40c9?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
-  </a>
-  &nbsp;
-  <a href="http://instagram.com/brunofcrosa" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-a855f7?style=for-the-badge&logo=instagram&logoColor=white" height="30" />
-  </a>
-  &nbsp;
-  <a href="mailto:brunofcrosa@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-06b6d4?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
-  </a>
-  &nbsp;
-  <a href="https://curriculo-azure.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Curr%C3%ADculo-7c3aed?style=for-the-badge&logo=googledocs&logoColor=white" height="30" />
-  </a>
-  &nbsp;
-  <a href="https://portfolio-brunofcrosas-projects.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portf%C3%B3lio-0891b2?style=for-the-badge&logo=vercel&logoColor=white" height="30" />
-  </a>
+<div align="center" style="display:flex;gap:8px;justify-content:center;flex-wrap:wrap;">
+  <a href="https://www.linkedin.com/in/brunofcrosa" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-6e40c9?style=for-the-badge&logo=linkedin&logoColor=white" height="30" /></a><a href="http://instagram.com/brunofcrosa" target="_blank"><img src="https://img.shields.io/badge/Instagram-a855f7?style=for-the-badge&logo=instagram&logoColor=white" height="30" /></a><a href="mailto:brunofcrosa@hotmail.com"><img src="https://img.shields.io/badge/Email-06b6d4?style=for-the-badge&logo=gmail&logoColor=white" height="30" /></a><a href="https://curriculo-azure.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Curr%C3%ADculo-7c3aed?style=for-the-badge&logo=googledocs&logoColor=white" height="30" /></a><a href="https://portfolio-brunofcrosas-projects.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portf%C3%B3lio-0891b2?style=for-the-badge&logo=vercel&logoColor=white" height="30" /></a>
 </div>
 
 <br/>
