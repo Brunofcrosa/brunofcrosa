@@ -76,7 +76,7 @@ const bruno = {
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Brunofcrosa/estoque">⚙️ estoque</a></h3>
-      <p>Gestão de estoque full-stack — Java 17 + Spring Boot 3 no back-end, Angular 17 no front-end.</p>
+      <p>Sistema de gestão de estoque full-stack com autenticação, produtos e movimentações.</p>
       <p>
         <img src="https://img.shields.io/badge/Java%2017-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
         <img src="https://img.shields.io/badge/Spring%20Boot%203-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
@@ -90,7 +90,7 @@ const bruno = {
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Brunofcrosa/BirlAcad">🏋️ BirlAcad</a></h3>
-      <p>Portal web de academia com planos e unidades — Next.js 15 + React 19 + Tailwind.</p>
+      <p>Portal web de academia com listagem de planos, unidades e serviços.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js%2015-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
         <img src="https://img.shields.io/badge/React%2019-61DAFB?style=flat-square&logo=react&logoColor=black"/>
@@ -106,7 +106,7 @@ const bruno = {
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Brunofcrosa/imobiliaria">🏠 imobiliaria</a></h3>
-      <p>Plataforma imobiliária (Projeto Integrador UFSM) — Django 5 + Bootstrap + Vercel.</p>
+      <p>Plataforma imobiliária com cadastro de imóveis, painel admin e deploy na Vercel.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Django%205-092E20?style=flat-square&logo=django&logoColor=white"/>
@@ -120,7 +120,7 @@ const bruno = {
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Brunofcrosa/galo-leilao-top">🐓 galo-leilao-top</a></h3>
-      <p>Plataforma de leilões online — React + Vite + TypeScript + shadcn/ui + Zod.</p>
+      <p>Plataforma de leilões online com cadastro de lotes e validação de lances.</p>
       <p>
         <img src="https://img.shields.io/badge/React%2018-61DAFB?style=flat-square&logo=react&logoColor=black"/>
         <img src="https://img.shields.io/badge/Vite%205-646CFF?style=flat-square&logo=vite&logoColor=white"/>
@@ -143,7 +143,7 @@ const bruno = {
   <tr>
     <td width="33%" valign="top">
       <h3><a href="https://github.com/Brunofcrosa/comanda_app">🍽️ comanda_app</a></h3>
-      <p>Gestão de comandas por mesa para bares e restaurantes — Flutter + SQLite.</p>
+      <p>Gestão de comandas por mesa para bares e restaurantes.</p>
       <p>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
         <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
@@ -155,7 +155,7 @@ const bruno = {
     </td>
     <td width="33%" valign="top">
       <h3><a href="https://github.com/Brunofcrosa/flutter-restaurant">🍕 flutter-restaurant</a></h3>
-      <p>Cardápio digital com QR Code por mesa para restaurantes — Flutter + SQLite.</p>
+      <p>Cardápio digital com geração de QR Code por mesa para restaurantes.</p>
       <p>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
         <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
@@ -168,7 +168,7 @@ const bruno = {
     </td>
     <td width="33%" valign="top">
       <h3><a href="https://github.com/Brunofcrosa/flutter_money">💰 flutter_money</a></h3>
-      <p>Controle financeiro pessoal com gráficos por categoria — Flutter + fl_chart + SQLite.</p>
+      <p>Controle financeiro pessoal com gráficos interativos por categoria.</p>
       <p>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
         <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
@@ -190,7 +190,7 @@ const bruno = {
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Brunofcrosa/bot-pw">🖥️ bot-pw</a></h3>
-      <p>App desktop de automação para o MMORPG Perfect World — Electron + React + Node.js.</p>
+      <p>Aplicação desktop de automação de tarefas para o MMORPG Perfect World.</p>
       <p>
         <img src="https://img.shields.io/badge/Electron%2031-47848F?style=flat-square&logo=electron&logoColor=white"/>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
@@ -203,7 +203,7 @@ const bruno = {
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Brunofcrosa/simulator-pw">⚔️ simulator-pw</a></h3>
-      <p>Simulador desktop do Perfect World com leitura de memória via JNA — Java 24 + JavaFX + Spring Boot.</p>
+      <p>Simulador desktop do Perfect World com leitura de memória do processo do jogo.</p>
       <p>
         <img src="https://img.shields.io/badge/Java%2024-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
         <img src="https://img.shields.io/badge/Spring%20Boot%203-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
@@ -219,7 +219,7 @@ const bruno = {
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Brunofcrosa/process-switch">🔄 process-switch</a></h3>
-      <p>Alternador de janelas do PW via hotkeys globais — Python + pywin32 + psutil.</p>
+      <p>Alternador de janelas entre múltiplos clientes do Perfect World via hotkeys globais.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/pywin32-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -232,7 +232,7 @@ const bruno = {
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Brunofcrosa/ProcessSwitcher">🪟 ProcessSwitcher</a></h3>
-      <p>Troca de foco entre instâncias do PW com simulação de teclas — C# + .NET + WinForms.</p>
+      <p>Gerenciador de instâncias do Perfect World com troca de foco por simulação de teclas.</p>
       <p>
         <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
         <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
