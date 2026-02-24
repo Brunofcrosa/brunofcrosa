@@ -1,4 +1,4 @@
-<!-- Header -->
+﻿<!-- Header -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,50:a855f7,100:06b6d4&height=200&section=header&text=Bruno%20Fetzer&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Full%20Stack%20Developer%20%7C%20UFSM&descAlignY=62&descSize=22&descColor=ffffff" width="100%"/>
 </div>
@@ -73,70 +73,70 @@ const bruno = {
 ### 🌐 Web & Full Stack
 
   <a href="https://github.com/Brunofcrosa/BirlAcad">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brunofcrosa&repo=BirlAcad&theme=tokyonight&hide_border=true&border_radius=12" />
+    <img src="https://github-readme-stats-88s1.vercel.app/api/pin/?username=Brunofcrosa&repo=BirlAcad&theme=tokyonight&hide_border=true&border_radius=12" />
   </a>
   <a href="https://github.com/Brunofcrosa/portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brunofcrosa&repo=portfolio&theme=tokyonight&hide_border=true&border_radius=12" />
+    <img src="https://github-readme-stats-88s1.vercel.app/api/pin/?username=Brunofcrosa&repo=portfolio&theme=tokyonight&hide_border=true&border_radius=12" />
   </a>
   <a href="https://github.com/Brunofcrosa/imobiliaria">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brunofcrosa&repo=imobiliaria&theme=tokyonight&hide_border=true&border_radius=12" />
+    <img src="https://github-readme-stats-88s1.vercel.app/api/pin/?username=Brunofcrosa&repo=imobiliaria&theme=tokyonight&hide_border=true&border_radius=12" />
   </a>
   <a href="https://github.com/Brunofcrosa/saborverde">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brunofcrosa&repo=saborverde&theme=tokyonight&hide_border=true&border_radius=12" />
+    <img src="https://github-readme-stats-88s1.vercel.app/api/pin/?username=Brunofcrosa&repo=saborverde&theme=tokyonight&hide_border=true&border_radius=12" />
   </a>
   <a href="https://github.com/Brunofcrosa/galo-leilao-top">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brunofcrosa&repo=galo-leilao-top&theme=tokyonight&hide_border=true&border_radius=12" />
+    <img src="https://github-readme-stats-88s1.vercel.app/api/pin/?username=Brunofcrosa&repo=galo-leilao-top&theme=tokyonight&hide_border=true&border_radius=12" />
   </a>
 
 ### 📱 Mobile (Flutter / Dart)
 
   <a href="https://github.com/Brunofcrosa/comanda_app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brunofcrosa&repo=comanda_app&theme=tokyonight&hide_border=true&border_radius=12" />
+    <img src="https://github-readme-stats-88s1.vercel.app/api/pin/?username=Brunofcrosa&repo=comanda_app&theme=tokyonight&hide_border=true&border_radius=12" />
   </a>
   <a href="https://github.com/Brunofcrosa/flutter-restaurant">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brunofcrosa&repo=flutter-restaurant&theme=tokyonight&hide_border=true&border_radius=12" />
+    <img src="https://github-readme-stats-88s1.vercel.app/api/pin/?username=Brunofcrosa&repo=flutter-restaurant&theme=tokyonight&hide_border=true&border_radius=12" />
   </a>
   <a href="https://github.com/Brunofcrosa/flutter_money">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brunofcrosa&repo=flutter_money&theme=tokyonight&hide_border=true&border_radius=12" />
+    <img src="https://github-readme-stats-88s1.vercel.app/api/pin/?username=Brunofcrosa&repo=flutter_money&theme=tokyonight&hide_border=true&border_radius=12" />
   </a>
 
 ### ☕ Java & Back-end
 
   <a href="https://github.com/Brunofcrosa/estoque">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brunofcrosa&repo=estoque&theme=tokyonight&hide_border=true&border_radius=12" />
+    <img src="https://github-readme-stats-88s1.vercel.app/api/pin/?username=Brunofcrosa&repo=estoque&theme=tokyonight&hide_border=true&border_radius=12" />
   </a>
   <a href="https://github.com/Brunofcrosa/simulator-pw">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brunofcrosa&repo=simulator-pw&theme=tokyonight&hide_border=true&border_radius=12" />
+    <img src="https://github-readme-stats-88s1.vercel.app/api/pin/?username=Brunofcrosa&repo=simulator-pw&theme=tokyonight&hide_border=true&border_radius=12" />
   </a>
   <a href="https://github.com/Brunofcrosa/pw-bots-mats">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brunofcrosa&repo=pw-bots-mats&theme=tokyonight&hide_border=true&border_radius=12" />
+    <img src="https://github-readme-stats-88s1.vercel.app/api/pin/?username=Brunofcrosa&repo=pw-bots-mats&theme=tokyonight&hide_border=true&border_radius=12" />
   </a>
   <a href="https://github.com/Brunofcrosa/alura">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brunofcrosa&repo=alura&theme=tokyonight&hide_border=true&border_radius=12" />
+    <img src="https://github-readme-stats-88s1.vercel.app/api/pin/?username=Brunofcrosa&repo=alura&theme=tokyonight&hide_border=true&border_radius=12" />
   </a>
 
 ### 🤖 Automação & Scripts
 
   <a href="https://github.com/Brunofcrosa/bot-pw">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brunofcrosa&repo=bot-pw&theme=tokyonight&hide_border=true&border_radius=12" />
+    <img src="https://github-readme-stats-88s1.vercel.app/api/pin/?username=Brunofcrosa&repo=bot-pw&theme=tokyonight&hide_border=true&border_radius=12" />
   </a>
   <a href="https://github.com/Brunofcrosa/process-switch">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brunofcrosa&repo=process-switch&theme=tokyonight&hide_border=true&border_radius=12" />
+    <img src="https://github-readme-stats-88s1.vercel.app/api/pin/?username=Brunofcrosa&repo=process-switch&theme=tokyonight&hide_border=true&border_radius=12" />
   </a>
   <a href="https://github.com/Brunofcrosa/ProcessSwitcher">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brunofcrosa&repo=ProcessSwitcher&theme=tokyonight&hide_border=true&border_radius=12" />
+    <img src="https://github-readme-stats-88s1.vercel.app/api/pin/?username=Brunofcrosa&repo=ProcessSwitcher&theme=tokyonight&hide_border=true&border_radius=12" />
   </a>
   <a href="https://github.com/Brunofcrosa/planilhas-python">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brunofcrosa&repo=planilhas-python&theme=tokyonight&hide_border=true&border_radius=12" />
+    <img src="https://github-readme-stats-88s1.vercel.app/api/pin/?username=Brunofcrosa&repo=planilhas-python&theme=tokyonight&hide_border=true&border_radius=12" />
   </a>
 
 ### 🎓 Acadêmico
 
   <a href="https://github.com/Brunofcrosa/UFSM">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brunofcrosa&repo=UFSM&theme=tokyonight&hide_border=true&border_radius=12" />
+    <img src="https://github-readme-stats-88s1.vercel.app/api/pin/?username=Brunofcrosa&repo=UFSM&theme=tokyonight&hide_border=true&border_radius=12" />
   </a>
   <a href="https://github.com/Brunofcrosa/postman-tests-scripts">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brunofcrosa&repo=postman-tests-scripts&theme=tokyonight&hide_border=true&border_radius=12" />
+    <img src="https://github-readme-stats-88s1.vercel.app/api/pin/?username=Brunofcrosa&repo=postman-tests-scripts&theme=tokyonight&hide_border=true&border_radius=12" />
   </a>
 
 </div>
@@ -146,9 +146,9 @@ const bruno = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Brunofcrosa&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true&include_all_commits=true&rank_icon=github" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-88s1.vercel.app/api?username=Brunofcrosa&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true&include_all_commits=true&rank_icon=github" height="170" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunofcrosa&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=10" height="170" alt="Top Languages" />
+  <img src="https://github-readme-stats-88s1.vercel.app/api/top-langs/?username=Brunofcrosa&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=10" height="170" alt="Top Languages" />
 </div>
 
 <br/>
