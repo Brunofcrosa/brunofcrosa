@@ -68,78 +68,182 @@ const bruno = {
 
 ## 📌 Projetos em Destaque
 
-<div align="center">
+---
 
 ### 🌐 Web & Full Stack
 
-  <a href="https://github.com/Brunofcrosa/BirlAcad">
-    <img src="https://github-readme-stats-88s1.vercel.app/api/pin/?username=Brunofcrosa&repo=BirlAcad&theme=tokyonight&hide_border=true&border_radius=12" />
-  </a>
-  <a href="https://github.com/Brunofcrosa/portfolio">
-    <img src="https://github-readme-stats-88s1.vercel.app/api/pin/?username=Brunofcrosa&repo=portfolio&theme=tokyonight&hide_border=true&border_radius=12" />
-  </a>
-  <a href="https://github.com/Brunofcrosa/imobiliaria">
-    <img src="https://github-readme-stats-88s1.vercel.app/api/pin/?username=Brunofcrosa&repo=imobiliaria&theme=tokyonight&hide_border=true&border_radius=12" />
-  </a>
-  <a href="https://github.com/Brunofcrosa/saborverde">
-    <img src="https://github-readme-stats-88s1.vercel.app/api/pin/?username=Brunofcrosa&repo=saborverde&theme=tokyonight&hide_border=true&border_radius=12" />
-  </a>
-  <a href="https://github.com/Brunofcrosa/galo-leilao-top">
-    <img src="https://github-readme-stats-88s1.vercel.app/api/pin/?username=Brunofcrosa&repo=galo-leilao-top&theme=tokyonight&hide_border=true&border_radius=12" />
-  </a>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Brunofcrosa/estoque">⚙️ estoque</a></h3>
+      <p>Sistema completo de gestão de estoque com autenticação, controle de usuários, produtos e movimentações. Arquitetura full-stack com back-end Java e front-end Angular.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java%2017-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Spring%20Boot%203-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Angular%2017-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      </p>
+      <a href="https://github.com/Brunofcrosa/estoque">
+        <img src="https://github-readme-stats-88s1.vercel.app/api/pin/?username=Brunofcrosa&repo=estoque&theme=tokyonight&hide_border=true&border_radius=8" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Brunofcrosa/BirlAcad">🏋️ BirlAcad</a></h3>
+      <p>Portal web moderno para academia com listagem de planos, unidades e serviços. Interface responsiva e otimizada com as más recentes versões do ecossistema React.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js%2015-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React%2019-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+        <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white"/>
+      </p>
+      <a href="https://github.com/Brunofcrosa/BirlAcad">
+        <img src="https://github-readme-stats-88s1.vercel.app/api/pin/?username=Brunofcrosa&repo=BirlAcad&theme=tokyonight&hide_border=true&border_radius=8" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Brunofcrosa/imobiliaria">🏠 imobiliaria</a></h3>
+      <p>Plataforma de gestão imobiliária — Projeto Integrador UFSM. Cadastro de imóveis com fotos, filtros de busca, painel admin e deploy em nuvem na Vercel.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Django%205-092E20?style=flat-square&logo=django&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Bootstrap%205-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+      </p>
+      <a href="https://github.com/Brunofcrosa/imobiliaria">
+        <img src="https://github-readme-stats-88s1.vercel.app/api/pin/?username=Brunofcrosa&repo=imobiliaria&theme=tokyonight&hide_border=true&border_radius=8" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Brunofcrosa/galo-leilao-top">🐓 galo-leilao-top</a></h3>
+      <p>Plataforma de leilões online com cadastro de lotes, lances em tempo real, validação de formulários com Zod e interface moderna com componentes shadcn/ui.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React%2018-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Vite%205-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white"/>
+      </p>
+      <a href="https://github.com/Brunofcrosa/galo-leilao-top">
+        <img src="https://github-readme-stats-88s1.vercel.app/api/pin/?username=Brunofcrosa&repo=galo-leilao-top&theme=tokyonight&hide_border=true&border_radius=8" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-### 📱 Mobile (Flutter / Dart)
+---
 
-  <a href="https://github.com/Brunofcrosa/comanda_app">
-    <img src="https://github-readme-stats-88s1.vercel.app/api/pin/?username=Brunofcrosa&repo=comanda_app&theme=tokyonight&hide_border=true&border_radius=12" />
-  </a>
-  <a href="https://github.com/Brunofcrosa/flutter-restaurant">
-    <img src="https://github-readme-stats-88s1.vercel.app/api/pin/?username=Brunofcrosa&repo=flutter-restaurant&theme=tokyonight&hide_border=true&border_radius=12" />
-  </a>
-  <a href="https://github.com/Brunofcrosa/flutter_money">
-    <img src="https://github-readme-stats-88s1.vercel.app/api/pin/?username=Brunofcrosa&repo=flutter_money&theme=tokyonight&hide_border=true&border_radius=12" />
-  </a>
+### 📱 Mobile — Flutter & Dart
 
-### ☕ Java & Back-end
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/Brunofcrosa/comanda_app">🍽️ comanda_app</a></h3>
+      <p>App mobile de gestão de comandas para bares e restaurantes. Registro de pedidos por mesa, cálculo automático de totais e histórico de consumo.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+      </p>
+      <a href="https://github.com/Brunofcrosa/comanda_app">
+        <img src="https://github-readme-stats-88s1.vercel.app/api/pin/?username=Brunofcrosa&repo=comanda_app&theme=tokyonight&hide_border=true&border_radius=8" />
+      </a>
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/Brunofcrosa/flutter-restaurant">🍕 flutter-restaurant</a></h3>
+      <p>Gerenciamento completo de restaurante com cardápio digital, geração de QR Code por mesa e integração com banco de dados local SQLite.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+        <img src="https://img.shields.io/badge/QR%20Code-000000?style=flat-square&logo=qrcode&logoColor=white"/>
+      </p>
+      <a href="https://github.com/Brunofcrosa/flutter-restaurant">
+        <img src="https://github-readme-stats-88s1.vercel.app/api/pin/?username=Brunofcrosa&repo=flutter-restaurant&theme=tokyonight&hide_border=true&border_radius=8" />
+      </a>
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/Brunofcrosa/flutter_money">💰 flutter_money</a></h3>
+      <p>App de controle financeiro pessoal com gráficos interativos por categoria, saldo em tempo real e suporte a localização pt-BR.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+        <img src="https://img.shields.io/badge/fl__chart-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+      </p>
+      <a href="https://github.com/Brunofcrosa/flutter_money">
+        <img src="https://github-readme-stats-88s1.vercel.app/api/pin/?username=Brunofcrosa&repo=flutter_money&theme=tokyonight&hide_border=true&border_radius=8" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-  <a href="https://github.com/Brunofcrosa/estoque">
-    <img src="https://github-readme-stats-88s1.vercel.app/api/pin/?username=Brunofcrosa&repo=estoque&theme=tokyonight&hide_border=true&border_radius=12" />
-  </a>
-  <a href="https://github.com/Brunofcrosa/simulator-pw">
-    <img src="https://github-readme-stats-88s1.vercel.app/api/pin/?username=Brunofcrosa&repo=simulator-pw&theme=tokyonight&hide_border=true&border_radius=12" />
-  </a>
-  <a href="https://github.com/Brunofcrosa/pw-bots-mats">
-    <img src="https://github-readme-stats-88s1.vercel.app/api/pin/?username=Brunofcrosa&repo=pw-bots-mats&theme=tokyonight&hide_border=true&border_radius=12" />
-  </a>
-  <a href="https://github.com/Brunofcrosa/alura">
-    <img src="https://github-readme-stats-88s1.vercel.app/api/pin/?username=Brunofcrosa&repo=alura&theme=tokyonight&hide_border=true&border_radius=12" />
-  </a>
+---
 
-### 🤖 Automação & Scripts
+### 🤖 Automação & Bots — Perfect World
 
-  <a href="https://github.com/Brunofcrosa/bot-pw">
-    <img src="https://github-readme-stats-88s1.vercel.app/api/pin/?username=Brunofcrosa&repo=bot-pw&theme=tokyonight&hide_border=true&border_radius=12" />
-  </a>
-  <a href="https://github.com/Brunofcrosa/process-switch">
-    <img src="https://github-readme-stats-88s1.vercel.app/api/pin/?username=Brunofcrosa&repo=process-switch&theme=tokyonight&hide_border=true&border_radius=12" />
-  </a>
-  <a href="https://github.com/Brunofcrosa/ProcessSwitcher">
-    <img src="https://github-readme-stats-88s1.vercel.app/api/pin/?username=Brunofcrosa&repo=ProcessSwitcher&theme=tokyonight&hide_border=true&border_radius=12" />
-  </a>
-  <a href="https://github.com/Brunofcrosa/planilhas-python">
-    <img src="https://github-readme-stats-88s1.vercel.app/api/pin/?username=Brunofcrosa&repo=planilhas-python&theme=tokyonight&hide_border=true&border_radius=12" />
-  </a>
-
-### 🎓 Acadêmico
-
-  <a href="https://github.com/Brunofcrosa/UFSM">
-    <img src="https://github-readme-stats-88s1.vercel.app/api/pin/?username=Brunofcrosa&repo=UFSM&theme=tokyonight&hide_border=true&border_radius=12" />
-  </a>
-  <a href="https://github.com/Brunofcrosa/postman-tests-scripts">
-    <img src="https://github-readme-stats-88s1.vercel.app/api/pin/?username=Brunofcrosa&repo=postman-tests-scripts&theme=tokyonight&hide_border=true&border_radius=12" />
-  </a>
-
-</div>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Brunofcrosa/bot-pw">🖥️ bot-pw</a></h3>
+      <p>Aplicação desktop cross-platform para automação de tarefas no MMORPG Perfect World. Interface visual com React, comunicação via IPC com o processo do jogo.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Electron%2031-47848F?style=flat-square&logo=electron&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black"/>
+      </p>
+      <a href="https://github.com/Brunofcrosa/bot-pw">
+        <img src="https://github-readme-stats-88s1.vercel.app/api/pin/?username=Brunofcrosa&repo=bot-pw&theme=tokyonight&hide_border=true&border_radius=8" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Brunofcrosa/simulator-pw">⚔️ simulator-pw</a></h3>
+      <p>Simulador desktop do Perfect World com interface JavaFX, integração nativa via JNA para leitura de memória do processo e servidor REST embutido com Spring Boot.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java%2024-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Spring%20Boot%203-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaFX%2022-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JNA-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white"/>
+      </p>
+      <a href="https://github.com/Brunofcrosa/simulator-pw">
+        <img src="https://github-readme-stats-88s1.vercel.app/api/pin/?username=Brunofcrosa&repo=simulator-pw&theme=tokyonight&hide_border=true&border_radius=8" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Brunofcrosa/process-switch">🔄 process-switch</a></h3>
+      <p>Utilitário CLI que alterna entre janelas de múltiplos clientes do Perfect World via hotkeys globais. Detecta processos automaticamente via psutil.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/pywin32-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/psutil-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/keyboard-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      </p>
+      <a href="https://github.com/Brunofcrosa/process-switch">
+        <img src="https://github-readme-stats-88s1.vercel.app/api/pin/?username=Brunofcrosa&repo=process-switch&theme=tokyonight&hide_border=true&border_radius=8" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Brunofcrosa/ProcessSwitcher">🪟 ProcessSwitcher</a></h3>
+      <p>Gerenciador de processos do Perfect World feito em C# WinForms. Lista instâncias ativas do jogo e realiza troca de foco com simulação de teclas do sistema.</p>
+      <p>
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
+        <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+        <img src="https://img.shields.io/badge/WinForms-0078D4?style=flat-square&logo=windows&logoColor=white"/>
+      </p>
+      <a href="https://github.com/Brunofcrosa/ProcessSwitcher">
+        <img src="https://github-readme-stats-88s1.vercel.app/api/pin/?username=Brunofcrosa&repo=ProcessSwitcher&theme=tokyonight&hide_border=true&border_radius=8" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
