@@ -3,7 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,50:a855f7,100:06b6d4&height=200&section=header&text=Bruno%20Fetzer&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Full%20Stack%20Developer%20%7C%20UFSM&descAlignY=62&descSize=22&descColor=ffffff" width="100%"/>
 </div>
 
-
 <!-- Social Badges -->
 <div align="center">
   <a href="https://www.linkedin.com/in/brunofcrosa" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-6e40c9?style=for-the-badge&logo=linkedin&logoColor=white" height="30" /></a>
