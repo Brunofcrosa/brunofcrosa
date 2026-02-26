@@ -1,4 +1,3 @@
-﻿<!-- Header -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,50:a855f7,100:06b6d4&height=200&section=header&text=Bruno%20Fetzer&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Full%20Stack%20Developer%20%7C%20UFSM&descAlignY=62&descSize=22&descColor=ffffff" width="100%"/>
 </div>
