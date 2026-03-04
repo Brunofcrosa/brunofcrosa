@@ -266,5 +266,3 @@ const bruno = {
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:a855f7,100:6e40c9&height=100&section=footer" width="100%"/>
 </div>
-
-
