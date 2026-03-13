@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Language-1f1f2e?style=for-the-badge&logo=googletranslate&logoColor=white" height="28" />
   <a href="./README.md"><img src="https://img.shields.io/badge/English-06b6d4?style=for-the-badge&logo=readme&logoColor=white" height="28" /></a>
   <a href="./README-BR.md"><img src="https://img.shields.io/badge/Portugu%C3%AAs-6e40c9?style=for-the-badge&logo=readme&logoColor=white" height="28" /></a>
 </p>
